@@ -12,7 +12,10 @@ Meu Primeiro Repositorio
 
 
 ##  Dicas
-Como usar pela primeira vez o Git/GitHub(https://web.digitalinnovation.one/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9?back=/track/impulso-react-web-developer)
+Como usar pela primeira vez o Git/GitHub(https://web.digitalinnovation.one/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9?back=/track/impulso-react-web-developer) https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/  --> Tutorial C#
+https://www.c-sharpcorner.com/UploadFile/84c85b/delegates-and-events-C-Sharp-net/--> c-sharp
+https://www.tutlane.com/tutorial/csharp/csharp-events --> Eventos
+
 
 ## Comandos
 Comando importantes  do Git/GitHub
